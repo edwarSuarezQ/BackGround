@@ -20,3 +20,6 @@ __pycache__/
 input/*
 output/*
 
+# Mantener las carpetas vacías
+!input/.gitkeep
+!output/.gitkeep
