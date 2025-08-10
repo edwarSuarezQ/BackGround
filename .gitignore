@@ -17,5 +17,9 @@ __pycache__/
 *.png
 *.gif
 
-BACKGROUND/input/**
-BACKGROUND/output/**
+input/*
+output/*
+
+# Mantener las carpetas vacías
+!input/.gitkeep
+!output/.gitkeep
